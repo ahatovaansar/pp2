@@ -1,0 +1,1 @@
+Move ball using arrow keys. Ball stays inside screen.

@@ -1,0 +1,1 @@
+Clock using Mickey Mouse with moving hands.
