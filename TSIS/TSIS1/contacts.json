@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alise",
+        "email": "alice@gmail.com",
+        "birthday": null,
+        "group": "Friends",
+        "phones": [
+            {
+                "number": "8777",
+                "type": "mobile"
+            }
+        ]
+    }
+]
